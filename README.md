@@ -58,14 +58,13 @@ Several regression approaches can be used for this project, including:
 
 - Linear Regression
 - Random Forest Regressor
-- Gradient Boosting Regressor
-- XGBoost or similar ensemble methods
+- -
+- -
+- -
 
-This competition is well known for showing the importance of strong preprocessing and feature engineering when working with tabular data.
+- 
 
-## Expected Outcome
 
-By the end of the project, the final model should be able to predict unseen house prices with good accuracy. The predictions can then be submitted to Kaggle and compared with other solutions on the leaderboard.
 
 ## Source
 
@@ -74,5 +73,3 @@ This project is based on the Kaggle competition:
 **House Prices: Advanced Regression Techniques**  
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
-Kaggle describes the competition as:  
-“Predict sales prices and practice feature engineering, RFs, and gradient boosting.”
