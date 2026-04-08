@@ -2,7 +2,7 @@
 
 This project is based on Kaggle’s **House Prices: Advanced Regression Techniques** competition. The goal is to predict the final sale price of residential homes in Ames, Iowa using a dataset with **79 explanatory variables**.
 
-## Project Overview
+## Project Overview 
 
 The task in this project is a **regression problem**. Using the housing features in the training data, the model learns to predict the target variable, **SalePrice**. The competition is designed as practice for **feature engineering, random forests, and gradient boosting**.
 
