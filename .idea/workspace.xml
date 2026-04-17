@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cf3535d-27ea-4808-bdb8-cbbb34748d5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/final-prj.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/final-prj.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +23,6 @@
   </component>
   <component name="CopilotUserSelectedModel">
     <selectedModels>
-      <entry key="chat-panel" value="GPT-4.1" />
-      <entry key="agent-panel" value="GPT-4.1" />
     </selectedModels>
   </component>
   <component name="Git.Settings">
@@ -108,7 +107,11 @@
       <updated>1775744024361</updated>
       <workItem from="1775744025518" duration="8260000" />
       <workItem from="1775760941647" duration="26000" />
-      <workItem from="1775761926639" duration="5064000" />
+      <workItem from="1775761926639" duration="5973000" />
+      <workItem from="1776108087853" duration="10000" />
+      <workItem from="1776355573141" duration="3101000" />
+      <workItem from="1776366642480" duration="4545000" />
+      <workItem from="1776393446278" duration="3698000" />
     </task>
     <servers />
   </component>
